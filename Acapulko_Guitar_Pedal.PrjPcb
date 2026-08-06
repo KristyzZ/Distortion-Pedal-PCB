@@ -119,6 +119,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBYITWJY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Acapulko_Guitar_Pedal\Design Rule Check - AcapulcoPCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
