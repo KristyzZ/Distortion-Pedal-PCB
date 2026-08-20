@@ -120,7 +120,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LBYITWJY
 
 [Document5]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=Acapulko_Gerber.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,7 +137,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=CAMtastic3.Cam
+DocumentPath=Acapulco_NC.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
